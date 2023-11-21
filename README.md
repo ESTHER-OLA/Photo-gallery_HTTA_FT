@@ -62,4 +62,4 @@ This helped me while I was brainstorming on what background color to use.
 
 ### Aknowledgement
 
-I want to appreciate coach gloria for this partform, thank you for creating this plartform in other to librate women in tech.
+I want to appreciate coach gloria for this partform, thank you for creating this plartform in other to librate the life of women in tech and a big thank you to coach chukwuebuka to the insightful teaching.
