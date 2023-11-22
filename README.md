@@ -27,7 +27,7 @@ Viewer should be able to:
 ### Links
 
 - Solution URL (https://github.com/ESTHER-OLA/Photo-gallery_HTTA_FT)
-- Live Site URL (https://food-pictures-gallery.netlify.app/)
+- Live Site URL (https://picture-gallery-ft.netlify.app/)
 
 
 ## My Process
